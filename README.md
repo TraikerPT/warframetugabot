@@ -1,2 +1,0 @@
-# warframetugabot
-by traiker
